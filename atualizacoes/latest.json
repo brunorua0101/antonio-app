@@ -1,0 +1,15 @@
+{
+  "version": "0.2.12",
+  "notes": "Nova vers\u00e3o do Ant\u00f3nio.",
+  "pub_date": "2026-11-20T00:11:08Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUb1VZQVI3SEVkWDVRUDRIdDR3VisvMFhKdnc5WEYrUUpxNkNQSVR0YlU2Z2FpdlJDekUwdS95WWRRMHd2eUZYSzNrMlUzeUpMa1Q0dWdmS2szTHFaRk14YmZQeW5uc1FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTMzMjY5CWZpbGU6QW50b25pby5hcHAudGFyLmd6CXZlcnNpb246MC4yLjEyCnFpVDgvZzFURXhqWkhkcEg1cVZ2T2E4Z3MwUVVQOThNNnEycmRCcmRiR1Y0WGZncEZoM0tVSTREZFU3NkJPVkpHbTAzTlA0VEpqWHJkTDRWbHIwQ0JBPT0K",
+      "url": "https://brunorua0101.github.io/antonio-app/atualizacoes/Antonio-mac.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUb1VZQVI3SEVkWHhzdGJTekFEQmI0NFQwNXJxVmpkZm93cjVqczRGTW9XY2lkZTgvek5jVzBCZW9YVEhOUGNna0RNS0JFNng1RGhrWlplN0toQ0JTa1kzOU9qK0pnakFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MTMzNDQzCWZpbGU6QW50b25pb18wLjIuMTJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4xMgoydWI3cWdveXdZNUtEVEQwV3pqVlV3ZW9sZ3hjNmx5RVBXdExFTGRDMGRRMisyR2Z2TGwrWDdUT3o1eHF0ZDNmdEZwSzcxS3BkUldJMEZwMkVFM0ZBQT09Cg==",
+      "url": "https://brunorua0101.github.io/antonio-app/atualizacoes/Antonio-windows-setup.exe"
+    }
+  }
+}
